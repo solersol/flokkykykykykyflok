@@ -189,7 +189,7 @@ p {
     left: 0;
 }
 
-.frame {
+/* .frame {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -200,15 +200,15 @@ p {
     border-radius: 2px;
     background: #5774c3;
     color: #fff;
-}
+} */
 
-.center {
+/* .center {
     position: absolute;
     width: 220px;
     height: 220px;
     top: 90px;
     left: 90px;
-}
+} */
 
 .dot-1 {
     position: absolute;
